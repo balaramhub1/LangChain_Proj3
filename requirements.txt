@@ -7,3 +7,5 @@ python-dotenv
 langchain-google-genai
 langchain-google-vertexai
 langchain-tavily
+langchain-core
+pydantic
